@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently working in Amazon.
+- 🌱 I’m currently learning basics of AI and whats news comming up in Tech.
+- 👯 I’m looking to collaborate on some new projects and work on some open source contributions.
+- 🤔 I’m looking for help with creating new projects and inventing some groundbreaking thoughts.
+- 💬 Ask me about anything, definitely will be learning that
+- 📫 How to reach me: LinkedIn or Email
+- ⚡ Fun fact: Kind of too late to start again some open source work again, but I really want to get some hands-on work.
+- 🥅 2026 Goals: Start contributing in Open source projects
